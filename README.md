@@ -1,6 +1,6 @@
-# Myopic - Releases
+# myOpic - Releases
 
-Binary releases for the Myopic optical spectrometer application.
+Binary releases for the myOpic optical spectrometer application.
 
 ## Downloads
 
@@ -19,4 +19,4 @@ chmod +x Myopic_arm64
 ./Myopic_arm64
 ```
 
-Requires a display (HDMI monitor or X11 forwarding).
+Requires a display (HDMI monitor or preferably X11 forwarding).
